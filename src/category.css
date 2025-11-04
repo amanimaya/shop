@@ -1,0 +1,20 @@
+.category-page {
+  padding: 20px;
+  text-align: center;
+  margin-top: 130px;
+}
+
+.category-select {
+  padding: 8px 12px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.products-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
